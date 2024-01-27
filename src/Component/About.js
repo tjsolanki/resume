@@ -109,7 +109,7 @@ export default function About() {
 
         <p className='font-bold text-5xl text-white sm:p-24 text-center'>Professional <span className='text-pink-500'>Skillset</span></p>
         <div className='container mx-auto '>
-          <div className='flex justify-center sm:flex-row flex-col  sm:ms-0 ms-36'>
+          <div className='flex justify-center sm:flex-row flex-col  sm:ms-0 ms-6'>
             <div className='border shadow-pink-500 sm:mt-0 mt-10 shadow-lg hover:shadow-pink-500 hover:shadow-xl hover:scale-110 transform transition-transform duration-300 border-pink-500 sm:w-56  w-80  h-40 shadow:lg  hover:text-gray-50 rounded-lg '>
               <FaReact className='text-white sm:w-28 sm:h-20 w-32 h-32 sm:mt-9 sm:p-0 p-5 sm:ms-14 mt-5 ms-28 text-center ' />
             </div>
@@ -124,7 +124,7 @@ export default function About() {
             </div>
           </div>
 
-          <div className='flex justify-center sm:flex-row flex-col  sm:mt-16 sm:ms-0 ms-36 mb-14'>
+          <div className='flex justify-center sm:flex-row flex-col  sm:mt-16 sm:ms-0 ms-6 mb-14'>
             <div className='border shadow-pink-500 sm:mt-0 mt-10  shadow-lg sm:ms-0 hover:shadow-pink-500 hover:shadow-xl hover:scale-110 transform transition-transform duration-300 border-pink-500 sm:w-56  w-80  h-40 shadow:lg  hover:text-gray-50 rounded-lg '>
               <img src='assets/images/daisyUI-removebg-preview.png' className='text-white sm:w-24 sm:h-20 w-32 h-32 sm:mt-9 sm:p-0 p-5 sm:ms-14 mt-5 ms-28 text-center ' />
             </div>
