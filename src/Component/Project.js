@@ -31,7 +31,7 @@ export default function Project() {
             "img": "assets/images/news-ss.PNG",
             "description": "news portal is an innovative project developed in ReactJS, utilizing the Bootstrap CSS framework to create an intuitive and responsive news application. The purpose of Online News Portal is to automate the existing manual system by the computerized software,  their requirements, so that their valuable information can be stored for a longer period.",
             "gitlink": "https://github.com/solanki-twisha/news-portal-react",
-            "demolink": " https://in.linkedin.com/in/twisha-solanki-982326227?trk=public_profile_browsemap"
+            "demolink": "https://news-portal-react.vercel.app/"
         },
         {
             "id": "2",
